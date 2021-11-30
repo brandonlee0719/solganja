@@ -95,7 +95,7 @@ export default function MainSection1() {
                                                 <img width="285" height="283"
                                                     src="https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708.png"
                                                     className="attachment-large size-large width-285" alt="" loading="lazy"
-                                                    srcset="https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708.png 285w, https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708-150x150.png 150w"
+                                                    srcSet="https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708.png 285w, https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708-150x150.png 150w"
                                                     sizes="(max-width: 285px) 100vw, 285px" />
                                             </div>
                                         </div>

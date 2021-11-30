@@ -17,7 +17,7 @@ export default function Header() {
                                         <img width="285" height="283"
                                             src="https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708.png"
                                             className="attachment-full size-full" alt="" loading="lazy"
-                                            srcset="https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708.png 285w, https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708-150x150.png 150w"
+                                            srcSet="https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708.png 285w, https://solganja.com/wp-content/uploads/2021/11/cold-smooth-tasty.-3-e1637511829708-150x150.png 150w"
                                             sizes="(max-width: 285px) 100vw, 285px"
                                             style={{ width: '100%', height: '99.3%', maxWidth: '285px' }} />
                                     </div>
@@ -66,7 +66,7 @@ export default function Header() {
                                                 </li>
                                             </ul>
                                         </nav>
-                                        <div className="elementor-menu-toggle" role="button" tabindex="0"
+                                        <div className="elementor-menu-toggle" role="button" tabIndex="0"
                                             aria-label="Menu Toggle" aria-expanded="false">
                                             <i aria-hidden="true" role="presentation"
                                                 className="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i
@@ -80,19 +80,19 @@ export default function Header() {
                                                 <li
                                                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-9">
                                                     <a href="#" className="elementor-item elementor-item-anchor"
-                                                        tabindex="-1">How To Buy</a></li>
+                                                        tabIndex="-1">How To Buy</a></li>
                                                 <li
                                                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-10">
                                                     <a href="#" className="elementor-item elementor-item-anchor"
-                                                        tabindex="-1">Plant Seeds</a></li>
+                                                        tabIndex="-1">Plant Seeds</a></li>
                                                 <li
                                                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-13">
                                                     <a href="#" className="elementor-item elementor-item-anchor"
-                                                        tabindex="-1">Roadmap</a></li>
+                                                        tabIndex="-1">Roadmap</a></li>
                                                 <li
                                                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-12">
                                                     <a href="#" className="elementor-item elementor-item-anchor"
-                                                        tabindex="-1">Tokenomics</a></li>
+                                                        tabIndex="-1">Tokenomics</a></li>
                                             </ul>
                                         </nav>
                                     </div>
